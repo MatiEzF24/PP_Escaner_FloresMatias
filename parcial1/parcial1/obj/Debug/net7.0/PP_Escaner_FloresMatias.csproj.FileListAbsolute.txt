@@ -1,0 +1,4 @@
+C:\Users\Mati (Mati)\Desktop\Ejercicios Progra 2\parcial1\parcial1\obj\Debug\net7.0\PP_Escaner_FloresMatias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mati (Mati)\Desktop\Ejercicios Progra 2\parcial1\parcial1\obj\Debug\net7.0\PP_Escaner_FloresMatias.AssemblyInfoInputs.cache
+C:\Users\Mati (Mati)\Desktop\Ejercicios Progra 2\parcial1\parcial1\obj\Debug\net7.0\PP_Escaner_FloresMatias.AssemblyInfo.cs
+C:\Users\Mati (Mati)\Desktop\Ejercicios Progra 2\parcial1\parcial1\obj\Debug\net7.0\PP_Escaner_FloresMatias.csproj.CoreCompileInputs.cache
