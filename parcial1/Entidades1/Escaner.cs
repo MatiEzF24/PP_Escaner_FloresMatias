@@ -76,11 +76,13 @@ namespace Entidades
                     if (escaner.tipo == TipoDoc.mapa)
                     {
                         escaner.listaDocumentos.Add(documento);
+                        escaner.CambiarEstadoDocumento(documento);
                         retorno = true;
                     }
                     else
                     {
                         escaner.listaDocumentos.Add(documento);
+                        escaner.CambiarEstadoDocumento(documento);
                         retorno = true;
                     }
 

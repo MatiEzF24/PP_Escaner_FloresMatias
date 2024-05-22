@@ -40,9 +40,9 @@ namespace Entidades
 
         public bool AvanzarEstado()
         {
-            if (estado != Paso.Terminado)
+            if (this.estado != Paso.Terminado)
             {
-                estado++;
+                this.estado++;
                 return true;
             }
             else
